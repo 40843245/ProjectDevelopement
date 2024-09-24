@@ -26,23 +26,23 @@
 ![image](https://github.com/user-attachments/assets/e14b4468-1417-4f48-9f23-690df17734cb)
 
 ## release the planning
-+ Form 1:
   
 ![image](https://github.com/user-attachments/assets/d3cbc864-2f28-4862-8d1f-bb4318d0e9b8)
-
-+ Form 2:
   
-![image](https://github.com/user-attachments/assets/8ce41117-b8d9-4aaa-b752-6f3f84f7e987)
-
 ### procedure
 ![image](https://github.com/user-attachments/assets/51128e71-115e-4d5b-9252-097c2801dbc4)
 
 ### Examples
 #### Example 1
++ Form 1:
+
 ![image](https://github.com/user-attachments/assets/3fab3d55-d570-4ef1-aa26-a08827455bd0)
 
-#### Example 2
 ![image](https://github.com/user-attachments/assets/929adc92-3c4c-45e7-a04c-fcaa1f281141)
+
++ Form 2:
+
+![image](https://github.com/user-attachments/assets/8ce41117-b8d9-4aaa-b752-6f3f84f7e987)
 
 ### way
 ![image](https://github.com/user-attachments/assets/875238fb-b6d9-4bb5-8846-26f08ea3d8fc)
