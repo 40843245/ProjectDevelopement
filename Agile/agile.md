@@ -45,6 +45,10 @@
 ![image](https://github.com/user-attachments/assets/8ce41117-b8d9-4aaa-b752-6f3f84f7e987)
 
 ### way
+#### feature driven
+![image](https://github.com/user-attachments/assets/875238fb-b6d9-4bb5-8846-26f08ea3d8fc)
+
+#### date driven
 ![image](https://github.com/user-attachments/assets/875238fb-b6d9-4bb5-8846-26f08ea3d8fc)
 
 ## iterate the planning
@@ -64,4 +68,7 @@
 ### way
 #### velocity driven
 ![image](https://github.com/user-attachments/assets/53dc24c0-0c8d-4ce5-8382-2b69310d82c9)
+
+#### commitment driven
+![image](https://github.com/user-attachments/assets/e00770f7-5e48-4924-8ff5-c765aabf857b)
 
