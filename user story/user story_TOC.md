@@ -1,16 +1,22 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [user story](#user-story)
+   * [intro](#intro)
+      + [3C in user story](#3c-in-user-story)
+   * [generate a user story](#generate-a-user-story)
+   * [format](#format)
+      + [Examples](#examples)
+         - [Example 1](#example-1)
    * [notice](#notice)
    * [user story mapping](#user-story-mapping)
       + [construction](#construction)
          - [step to construct](#step-to-construct)
-      + [Examples](#examples)
-         - [Example 1](#example-1)
+      + [Examples](#examples-1)
+         - [Example 1](#example-1-1)
          - [Example 2](#example-2)
       + [how to use](#how-to-use)
-         - [Examples ](#examples-1)
-            * [Example 1](#example-1-1)
+         - [Examples ](#examples-2)
+            * [Example 1](#example-1-2)
       + [sort with user story mapping](#sort-with-user-story-mapping)
          - [iterative](#iterative)
          - [incremental](#incremental)
@@ -21,6 +27,30 @@
 
 <!-- TOC --><a name="user-story"></a>
 # user story
+<!-- TOC --><a name="intro"></a>
+## intro
+![image](https://github.com/user-attachments/assets/bb205667-6bd8-4b3b-ab94-4f2401bdbd49)
+
+<!-- TOC --><a name="3c-in-user-story"></a>
+### 3C in user story
++ Card
++ Conversation
++ Confirmation
+
+<!-- TOC --><a name="generate-a-user-story"></a>
+## generate a user story
+![image](https://github.com/user-attachments/assets/030798dd-5f9f-4341-8c6a-0474192a2c52)
+
+<!-- TOC --><a name="format"></a>
+## format
+![image](https://github.com/user-attachments/assets/f61c816c-e41e-4040-8965-0737bf5d806b)
+
+<!-- TOC --><a name="examples"></a>
+### Examples
+<!-- TOC --><a name="example-1"></a>
+#### Example 1
+![image](https://github.com/user-attachments/assets/bf25cfe4-0cbe-4d46-b5b2-bbb573a8d47f)
+
 <!-- TOC --><a name="notice"></a>
 ## notice
 ![image](https://github.com/user-attachments/assets/a34a5288-f1a4-487c-8bc9-293bd3bc3527)
@@ -40,9 +70,9 @@ there are three levels in user story mapping.
 #### step to construct
 ![image](https://github.com/user-attachments/assets/3cb41764-cab7-4021-8e85-a872a1e0bb21)
 
-<!-- TOC --><a name="examples"></a>
+<!-- TOC --><a name="examples-1"></a>
 ### Examples
-<!-- TOC --><a name="example-1"></a>
+<!-- TOC --><a name="example-1-1"></a>
 #### Example 1
 ![image](https://github.com/user-attachments/assets/0070721c-6368-40cd-9b4b-ba7863d0bdca)
 
@@ -54,9 +84,9 @@ there are three levels in user story mapping.
 ### how to use
 ![image](https://github.com/user-attachments/assets/daf3da64-42bf-41ed-adda-874780a5c81b)
 
-<!-- TOC --><a name="examples-1"></a>
+<!-- TOC --><a name="examples-2"></a>
 #### Examples 
-<!-- TOC --><a name="example-1-1"></a>
+<!-- TOC --><a name="example-1-2"></a>
 ##### Example 1
 
 To boss:
@@ -90,7 +120,3 @@ To scrum team:
 ![image](https://github.com/user-attachments/assets/6ad85aec-7803-4fcf-b690-4d77ed7b9fdb)
 
 ![image](https://github.com/user-attachments/assets/206b6e6b-0048-4a8d-b9c2-07d727f7db4a)
-
-
-
-
