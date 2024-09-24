@@ -1,4 +1,22 @@
 # user story
+## intro
+![image](https://github.com/user-attachments/assets/bb205667-6bd8-4b3b-ab94-4f2401bdbd49)
+
+### 3C in user story
++ Card
++ Conversation
++ Confirmation
+
+## generate a user story
+![image](https://github.com/user-attachments/assets/030798dd-5f9f-4341-8c6a-0474192a2c52)
+
+## format
+![image](https://github.com/user-attachments/assets/f61c816c-e41e-4040-8965-0737bf5d806b)
+
+### Examples
+#### Example 1
+![image](https://github.com/user-attachments/assets/bf25cfe4-0cbe-4d46-b5b2-bbb573a8d47f)
+
 ## notice
 ![image](https://github.com/user-attachments/assets/a34a5288-f1a4-487c-8bc9-293bd3bc3527)
 
@@ -53,8 +71,3 @@ To scrum team:
 ![image](https://github.com/user-attachments/assets/6ad85aec-7803-4fcf-b690-4d77ed7b9fdb)
 
 ![image](https://github.com/user-attachments/assets/206b6e6b-0048-4a8d-b9c2-07d727f7db4a)
-
-
-
-
-
