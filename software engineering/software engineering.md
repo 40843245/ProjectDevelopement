@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1b9b29e-1a49-48ad-aa9c-b3ecbba71717)# software engineering
+# software engineering
 ## intro
 Software engineering is the establishment and 
 
